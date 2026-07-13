@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Initial Rust release of the Onetesting Remote edition.",
+  "pub_date": "2026-07-13T07:15:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVm94SW9oeCtSN25ZMm90WDBmSnBjaFVvNUkvUUtZRTc1NThzQ3YvSHl3YlloRm5aSnFIYWhCU0Z0Vk03UWtNdS9BbUhUWWJqbFdQYTVLaXhsYitob3JRVmpkWGpOTXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTI3MDY4CWZpbGU6T25ldGVzdGluZy0wLjIuMC13aW5kb3dzLXg2NC5leGUKRldrQk5VaGdsVlhaMFAwOFBBdmJ5VXk0T0tYS243MXBuRzhTOTNGdWUwZFhGaVhuYUFqUWMyaUt0Vyt1YW0vUThWeFdQL3VJYlBJS2d1dHR3UG9xQXc9PQo=",
+      "url": "https://github.com/odestins/Onetesting-Releases/releases/download/v0.2.0/Onetesting-0.2.0-windows-x64.exe"
+    }
+  }
+}
