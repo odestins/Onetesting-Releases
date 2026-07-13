@@ -3,6 +3,10 @@
   "notes": "Initial Rust release of the Onetesting Remote edition.",
   "pub_date": "2026-07-13T07:15:00Z",
   "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVm94SW9oeCtSN2xCSTJYL20ycjZnSjNaVVhBUXNQa3BnWW5KZDJUQSthT0Z2NW1MR0FvVzF5bXNYc0tzdXcra3BjNXJaanRNdHBGanFDdUZpTXpsSGVsYXBmNTFsY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTI0MjY2CWZpbGU6T25ldGVzdGluZy5hcHAudGFyLmd6CmZGZGNIaHFxbGhYK1VFaE5JVWsrRXVhZDRvTm5FSmdLUnJrdzRMVzIvQnVqYjhWQmp3anlrL0ljTXVLK1B5Nmx5VGZ3QlNicVR3WWhidGR6cFE5QkJnPT0K",
+      "url": "https://github.com/odestins/Onetesting-Releases/releases/download/v0.2.0/Onetesting-0.2.0-macOS-arm64.app.tar.gz"
+    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVm94SW9oeCtSN25ZMm90WDBmSnBjaFVvNUkvUUtZRTc1NThzQ3YvSHl3YlloRm5aSnFIYWhCU0Z0Vk03UWtNdS9BbUhUWWJqbFdQYTVLaXhsYitob3JRVmpkWGpOTXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTI3MDY4CWZpbGU6T25ldGVzdGluZy0wLjIuMC13aW5kb3dzLXg2NC5leGUKRldrQk5VaGdsVlhaMFAwOFBBdmJ5VXk0T0tYS243MXBuRzhTOTNGdWUwZFhGaVhuYUFqUWMyaUt0Vyt1YW0vUThWeFdQL3VJYlBJS2d1dHR3UG9xQXc9PQo=",
       "url": "https://github.com/odestins/Onetesting-Releases/releases/download/v0.2.0/Onetesting-0.2.0-windows-x64.exe"

@@ -3,6 +3,10 @@
   "notes": "Initial Rust release of the Onetesting Campus edition.",
   "pub_date": "2026-07-13T07:15:00Z",
   "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVm94SW9oeCtSN25pbXdWcW82NE9BenFZZ2pvWWpSU2s4K1h6OTQ3bVRXdVdnYmJmL3hjbXRpTTErK0JJaThyeTJWdFcrWkd3Z3FWUXgvZ05VVXBSRHFhMGEwZXNNaHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTI0MzUxCWZpbGU6T25ldGVzdGluZy5hcHAudGFyLmd6Cjd2aG0rc3pNNTNORjlyb0U1SFBjSWtjdWUxVFIvUks3d3FPN2plRWNhbmJOK1B4RDlDRkcwTnU1cHBIdW5TZlNMa0FBM2Y4aFJYbWhnYytMR09VdkN3PT0K",
+      "url": "https://github.com/odestins/Onetesting-Releases/releases/download/v0.2.0/Onetesting-Campus-0.2.0-macOS-arm64.app.tar.gz"
+    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVm94SW9oeCtSN2s1VnFtdlVuamp5dTNFL1NJZ1REcjhITit3RlltdzVRZ2dWUlhJekhvL1lKVEVwNUpsSzE0eHZ2Z0NGN1JiRGpDL0lwUjRlZjlaOGVqZ2tBUkNWVGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTI2OTgwCWZpbGU6T25ldGVzdGluZy1DYW1wdXMtMC4yLjAtd2luZG93cy14NjQuZXhlCnRrWEhkTktUQ29CTzVaT2o3UVVaRUNuRmViUnJvMUh0cDJVeGFkMFplNEp2U2N1Q2hKNmE3ekFCempoL0pxKzFrNGVoem4xcmo0YTM5cExKRm5WdERRPT0K",
       "url": "https://github.com/odestins/Onetesting-Releases/releases/download/v0.2.0/Onetesting-Campus-0.2.0-windows-x64.exe"
