@@ -11,6 +11,6 @@ Public, signed installers and update manifests for **Starlock** (formerly Onetes
 
 Students do not need to choose an architecture. Windows installers are signed by PRODESTIN LLC; Mac installers are Developer ID signed and Apple-notarized.
 
-New launch links use `starlock://`. Existing `onetesting://` links and in-app update feeds remain compatible. The repository URL and older Onetesting-named release assets are retained so existing installations can still update; use the Starlock-named downloads for student distribution.
+New launch links use `starlock://`; existing `onetesting://` links remain supported. Current releases contain only Starlock-named downloads. Onetesting and Starlock v1.3.0 users must manually reinstall the next Starlock version because their old updater filename allowlists require the compatibility copies that have now been removed. The repository URL remains unchanged. Historical releases are retained as archives.
 
 Application source is maintained separately in the private source repository.
